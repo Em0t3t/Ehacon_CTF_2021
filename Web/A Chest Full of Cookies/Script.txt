@@ -1,0 +1,1 @@
+Only admin knows where he hides the flag. Connect at chall.ctf-ehcon.ml:32102

@@ -1,0 +1,5 @@
+DSG 1342 : Dark Gray knows where you kept the secret
+OEH 4875 : No, I did not hide anything. Ask RFC.
+RFC 4287 : Mark Nottingham forgets everything.
+RFC 2010 : I am always right.
+Connect the server at chall.ctf-ehcon.ml:32103

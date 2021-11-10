@@ -1,0 +1,3 @@
+Solving boxes as on THM was never this fun. SSH at
+chall.ctf-ehcon.ml:32302
+with username - flag
